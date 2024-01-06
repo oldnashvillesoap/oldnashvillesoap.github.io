@@ -26,4 +26,4 @@ I can raise your table culture!
 
 ![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
 
-Want to learn more about my services? See [dedicated page](services) with more details.
+Want to learn more about my services? See [dedicated page](products) with more details.
