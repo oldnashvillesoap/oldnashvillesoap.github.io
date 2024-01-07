@@ -4,12 +4,12 @@ weight: 3
 header_menu: true
 ---
 
-Details about our homestead, our goats, our soap making process, how we got into it.  Origin of the name?
+In 2023, we established a small homestead located west of Columbus, Indiana, with a vision to create a sustainable and self-sufficient lifestyle. Our journey began by starting a modest herd of Nigerian Dwarf goats, chosen for their manageable size and excellent milk production. Harnessing the rich, creamy milk from our goats, we embarked on the art of handcrafting goat milk soap and various cosmetic products.
 
-<!--![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)-->
+![goats in wheel barrow](images/our-goats-wheel-barrow.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our homestead serves as a haven for our goats, providing them with a nurturing environment that reflects our commitment to ethical and humane practices. The goat milk, a cornerstone of our endeavor, not only contributes to the well-being of our animals but also forms the foundation of our artisanal products.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![goat on milking stand](images/our-goats-milking-stand.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+With a passion for natural and wholesome living, we take pride in creating handcrafted goods that marry tradition with innovation. Our journey is one of dedication to sustainability, creativity, and the joy derived from cultivating a harmonious relationship with the land and its inhabitants. As we continue to grow and evolve, our story unfolds, embracing the values of simplicity, craftsmanship, and a deep connection to the land.
