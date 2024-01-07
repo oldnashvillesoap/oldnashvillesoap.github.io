@@ -30,8 +30,8 @@ body {
 #site-head a.btn, #site-head.withCenteredImage a.btn {
     background-color: var(--highlight);
     color: var(--highlight-contrast);
-    border-radius: 0px;
     -webkit-border-radius: 0px;
+    border-radius: 0px;
     font-family: open sans,sans-serif;
     font-weight: normal;
 }
@@ -57,7 +57,8 @@ a.fn-item.active {
     --highlight-contrast: #ddd;
     --highlight-inverse: darkgoldenrod;
     --section-dark-bg-color: #3a4145;
-    --footer-color-background: #800000;
+    --footer-color: var(--section-dark-text-color);
+    --footer-color-background: var(--section-dark-bg-color);
     --sticky-menu-text-color: darkgoldenrod;
 
     /*
