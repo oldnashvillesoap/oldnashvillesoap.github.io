@@ -3,6 +3,4 @@ title: "Welcome"
 weight: 1
 ---
 
-Brief summary about who we are and what we do. Any updates/recent news could go here
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Embracing simplicity and purity, our products provide an authentic and nourishing skincare experience.  Our goat milk soaps are created from scratch, utilizing 100% goat milk sourced from our Nigerian dwarf goat herd.  Infused with a blend of natural ingredients renowned for their benefits, our soaps are made with care using the traditional cold process method.
