@@ -4,6 +4,7 @@ header_image: "images/cover-image.jpg"
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
 header_use_video: true
+header_video_poster: "images/goat-cover.png"
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
 header_logo: "images/goat-logo-200-white.png"
