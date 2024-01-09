@@ -1,5 +1,5 @@
 ---
-title: "The products we offer"
+title: "Our products"
 header_menu_title: "Products"
 navigation_menu_title: "Products"
 weight: 2
